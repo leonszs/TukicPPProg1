@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589806384 source:c:\users\tuki\desktop\segundoejercicio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
